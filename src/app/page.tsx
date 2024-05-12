@@ -29,7 +29,7 @@ export default function Home() {
         </Button>
       </div>
 
-      <div className="hidden md:inline">
+{/*       <div className="hidden md:inline">
         <Image
           alt="hero image"
           height={300}
@@ -37,7 +37,7 @@ export default function Home() {
           src={heroImage}
           className="drop-shadow-xl"
         />
-      </div>
+      </div> */}
     </main>
   );
 }
